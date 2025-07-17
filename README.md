@@ -29,10 +29,15 @@
 </div>
 
 
-docker build -t neko-telegram:latest apps/telegram/
+
+
+<div>
+
+#docker build -t neko-telegram:latest apps/telegram/
 
 docker-compose up -d
 
+</div>
 
 
 
